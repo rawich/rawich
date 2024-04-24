@@ -2,7 +2,7 @@
 - 👀 I’m interested in being healthy, alpine skiing, outdoor activities, personal finance, and investing.
 - 🌱 I’m currently learning how startup can be successful.
 - 💞️ I’m looking to collaborate on ways to stay active during off ski season.
-- 📫 How to reach me ... https://twitter.com/rawich
+- 📫 How to reach me ... https://linkedin.com/in/rawich
 
 <!---
 rawich/rawich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
