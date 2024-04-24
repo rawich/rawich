@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ways to stay active during off ski season.
 - 📫 How to reach me ... https://linkedin.com/in/rawich
 
+2024-04-24
 <!---
 rawich/rawich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
